@@ -1,0 +1,21 @@
+{
+  "name": "as18-social-network-api",
+  "version": "1.0.0",
+  "description": "API for a social network web application where users can share their thoughts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AS18-Social-Network-API"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "dotenv": "^8.2.0"
+  }
+}
