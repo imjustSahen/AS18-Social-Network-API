@@ -1,5 +1,4 @@
-# <ins>13 Object-Relational Mapping (ORM): E-Commerce Back End
-
+# <ins>18 NoSQL: Social Network API
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![License Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&syle=flat&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=none&logo=mongodb&logoColor=white)
@@ -8,7 +7,7 @@
 
 ## <ins>Project Title
 
-E-Commerce Back-End
+Social Network API
 
 ## <ins>Table of contents
 
@@ -21,11 +20,13 @@ E-Commerce Back-End
 
 ## <ins>General info
 
-
+My challenge was to build an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. Using Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 ## <ins>Description
 
-<li></li>
+<li>User is able to close the repo</li>
+<li>User is able to install the proper technoligies and initiate the server</li>
+<li>User can then use Insomnia to test the different routes</li>
 
 ## <ins>Working Application
 
